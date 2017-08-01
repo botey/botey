@@ -21,7 +21,7 @@ using Microsoft.Bot.Builder.FormFlow;
 
 // For more information about this template visit http://aka.ms/azurebots-csharp-luis
 [Serializable]
- /*  public class EchoDialog : IDialog<object>
+ /*//  public class EchoDialog : IDialog<object>
 {
     public async Task StartAsync(IDialogContext context)
     {
